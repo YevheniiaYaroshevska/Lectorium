@@ -1,0 +1,2 @@
+# Lectorium
+Automation_Cypress
